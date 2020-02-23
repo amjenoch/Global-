@@ -1,0 +1,3 @@
+succes= ("Reussir")
+
+print(succes)

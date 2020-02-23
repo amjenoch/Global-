@@ -1,0 +1,35 @@
+body{
+    background: white;
+    font-family: "Century Gothic"
+}
+h1{
+    text-shadow: 1px 1px 4px green;
+    letter-spacing: 5px;
+    word-spacing: 2px;
+}
+#PO{
+    text-shadow: -2px 6px 3px blue;
+    line-height: 40px;
+    letter-spacing: 9px;
+    word-spacing: 15px;
+}
+#RE{
+    font-size: 54px;
+    text-align: center ;
+    text-shadow: 0px 0px 54px yellow;
+    letter-spacing: 11px;
+    word-spacing: 18px;
+    
+}
+#we{
+    letter-spacing: -2px;
+    text-align: 23px ;
+    line-height: 56px;
+}
+#div1{
+    background-color: yellow;
+    width: 500px;
+    padding: 200px;
+    border: 200px solid blue;
+    margin: 50px;
+}

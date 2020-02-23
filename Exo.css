@@ -1,0 +1,70 @@
+#tr{
+    height: 10px;
+}
+div{
+    background-color: white;
+    height: 100px;
+}
+li{
+    
+    display: inline-block;
+    justify-content: flex-start;
+    
+   
+    
+}
+a{
+    text-decoration: none;
+    color:slategrey;
+}
+#AP{
+    height: 50px;
+    width: 90px;
+}
+#TE{
+    height: 45px;
+    width: 90px;
+}
+#cv{
+    word-spacing: 34px;
+}
+#re{
+    width: 100%;
+    height: 800px;
+    
+}
+#rs{
+    margin: 800px;
+    position: absolute;
+    right: 390px;
+    height: 400px;
+}
+#vv{
+    float: right;
+    margin: 700px;
+    position: relative;
+    top: -700px;
+}
+.re{
+    color: green;
+    font-style: italic;
+}
+#xx{
+    color: slategrey;
+    position: relative;
+    top: 50px;
+    right: 50px;
+}
+#cd{
+    background-image: url(ap.jpg);
+    position: relative;
+    top: 500px ;
+    width: 100%;
+}
+#ss{
+    border-image-width:;
+}
+#vg{
+    font-size: 15px;
+
+}

@@ -1,0 +1,49 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 40%;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 10rem;
+}
+header{
+    background-image: url(aerial-photo-of-mountain-surrounded-by-fog-733174.jpg);
+    height: 110vh;
+    width: 100%;
+    margin: 1rem;
+    background-position: center;
+    background-size: cover;
+}
+#img1{
+    background: url(adventure-alps-background-beautiful-547114.jpg);
+    height: 100rem;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}#img2{
+    background: url(bengal-tiger-half-soak-body-on-water-during-daytime-145939.jpg);
+    height: 100rem;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}#img3{
+    background: url(amazing-astronomy-background-bright-544268.jpg);
+    height: 100rem;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}#img4{
+    background: url(white-and-black-moon-with-black-skies-and-body-of-water-748626.jpg);
+    height: 100rem;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
